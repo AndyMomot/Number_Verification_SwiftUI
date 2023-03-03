@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  VerifyingTelephoneNumber
+
+  Created by Андрей on 15.10.2022.
+  
+*/
+
+// MARK: - Ukrainian -
+
+"Authentication" = "Автентифікація";
+
+// MARK: Main Screen -
+"Welcome!" = "Ласкаво просимо!";
+"Start" = "Почати";
+
+// MARK: Root Screen -
+"Verification failed!" = "Помилка перевірки!";
+"Auth" = "Авторизуватися";
+
+// MARK: Start Screen -
+"Verify your phone number" = "Підтвердьте свій номер телефону";
+"All users must verify their account with a valid mobile number before posting a pet advertisement. Doing so will help us prevent animal welfare issues and reduce fraudulent behaviors." = "Усі користувачі повинні підтвердити свій обліковий запис за допомогою дійсного номера мобільного телефону, перш ніж публікувати оголошення про домашніх тварин. Це допоможе нам запобігти проблемам з добробутом тварин і зменшити випадки шахрайства.";
+"Verify Account" = "Підтвердити обліковий запис";
+"Close" = "Закрити";
+
+// MARK: Input Phone Number Screen
+"Please enter your mobile phone number and receive your 6-digit confirmation code to verify your account." = "Будь ласка, введіть номер свого мобільного телефону та отримайте 6-значний код підтвердження для підтвердження свого облікового запису.";
+"Mobile number" = "Номер мобільного";
+"Please enter a valid mobile number" = "Будь ласка, введіть дійсний номер мобільного телефону";
+"Send Code" = "Надіслати код";
+"Having trouble?" = "Виникли проблеми?";
+"Get help" = "Отримати допомогу";
+"Something went wrong" = "Щось пішло не так";
+"Try again!" = "Спробуйте ще раз!";
+"OK" = "Добре";
+"< Back" = "< Назад";
+"Done" = "Готово";
+
+// MARK: Enter OTP Screen
+"Please enter a valid code!" = "Будь ласка, введіть дійсний код!";
+"You have 1 more attempt before your account is blocked" = "У вас є ще 1 спроба, перш ніж ваш обліковий запис буде заблоковано";
+"Confirm your phone number" = "Підтвердьте свій номер телефону";
+"Please enter the 6-digit code we send it to" = "Будь ласка, введіть 6-значний код, який ми надішлемо на номер";
+"This code will expire in 10 minutes." = "Цей код застаріє через 10 хвилин.";
+"Confirm" = "Підтвердити";
+"ID Code error" = "Помилка ідентифікаційного коду";
+"Please try again, check your phone number or send new code" = "Будь ласка, спробуйте ще раз, перевірте свій номер телефону або надішліть новий код";
+"Didn't receive a code?" = "Не отримали код?";
+"Render code" = "Надіслати код";
+"New code sent!" = "Новий код надіслано!";
+
+// MARK: Success Screen -
+"Home" = "Дім";
+"Your account is verified!" = "Ваш обліковий запис перевірено!";
+"Thanks for your verifying account and helping us create a safe invieroment. You can now create your adverb." = "Дякуємо, що підтвердили обліковий запис і допомогли нам створити безпечне середовище. Тепер ви можете створити свій прислівник";
+"Continue" = "Продовжити";
+"Sign out" = "Вийти";
+
+// MARK: Failed Screen -
+"We were unable to verify your mobile number, please try entering your number again or visit our help desk." = "Нам не вдалося підтвердити ваш номер мобільного телефону, будь ласка, спробуйте ввести свій номер ще раз або відвідайте нашу службу підтримки.";
+"Try again" = "Спробуйте ще раз";
+"Help desk" = "Служба підтримки";
+
+// MARK: Blocked Screen -
+"Account blocked!" = "Акаунт заблоковано!";
+"Your account has been blocked due to too many failed verification attempts. Please contact our." = "Ваш обліковий запис заблоковано через забагато невдалих спроб перевірки. Зв’яжіться з нами.";

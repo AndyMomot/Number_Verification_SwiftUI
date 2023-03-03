@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  VerifyingTelephoneNumber
+
+  Created by Андрей on 15.10.2022.
+  
+*/
+// MARK: - English -
+
+"Authentication" = "Authentication";
+
+// MARK: Main Screen -
+"Welcome!" = "Welcome!";
+"Start" = "Start";
+
+// MARK: Root Screen -
+"Verification failed!" = "Verification failed!";
+"Auth" = "Auth";
+
+// MARK: Start Screen -
+"All users must verify their account with a valid mobile number before posting a pet advertisement. Doing so will help us prevent animal welfare issues and reduce fraudulent behaviors." = "All users must verify their account with a valid mobile number before posting a pet advertisement.  Doing so will help us prevent animal welfare issues and reduce fraudulent behaviors.";
+"Verify Account" = "Verify Account";
+"Close" = "Close";
+
+// MARK: Input Phone Number Screen
+"Please enter your mobile phone number and receive your 6-digit confirmation code to verify your account." = "Please enter your mobile phone number and receive your 6-digit confirmation code to verify your account.";
+"Mobile number" = "Mobile number";
+"Please enter a valid mobile number" = "Please enter a valid mobile number";
+"Send Code" = "Send Code";
+"Having trouble?" = "Having trouble?";
+"Get help" = "Get help";
+"Something went wrong" = "Something was wrong";
+"Try again!" = "Try again!";
+"OK" = "OK";
+"< Back" = "< Back";
+"Done" = "Done";
+
+// MARK: Enter OTP Screen
+"Please enter a valid code!" = "Please enter a valid code!";
+"You have 1 more attempt before your account is blocked" = "You have 1 more attempt before your account is blocked";
+"Confirm your phone number" = "Confirm your phone number";
+"Please enter the 6-digit code we send it to" = "Please enter the 6-digit code we send it to";
+"This code will expire in 10 minutes." = "This code will expire in 10 minutes.";
+"Confirm" = "Confirm";
+"ID Code error" = "ID Code error";
+"Please try again, check your phone number or send new code" = "Please try again, check your phone number or send new code";
+"Didn't receive a code?" = "Didn't receive a code?";
+"Render code" = "Render code";
+"New code sent!" = "New code sent!";
+
+// MARK: Success Screen -
+"Home" = "Home";
+"Your account is verified!" = "Your account is verified!";
+"Thanks for your verifying account and helping us create a safe invieroment. You can now create your adverb." = "Thanks for your verifying account and helping us create a safe invieroment. You can now create your adverb.";
+"Continue" = "Continue";
+"Sign out" = "Sign out";
+
+// MARK: Failed Screen -
+"We were unable to verify your mobile number, please try entering your number again or visit our help desk." =
+"We were unable to verify your mobile number, please try entering your number again or visit our help desk.";
+"Try again" = "Try again";
+"Help desk" = "Help desk";
+
+// MARK: Blocked Screen -
+"Account blocked!" = "Account blocked!";
+"Your account has been blocked due to too many failed verification attempts. Please contact our." = "Your account has been blocked due to too many failed verification attempts. Please contact our.";
